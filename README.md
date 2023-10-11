@@ -19,7 +19,7 @@ To use this script, follow these steps:
 You can install this script by cloning the repository to your local machine. Make sure you have administrative privileges.
 
 ```bash
-git clone https://github.com/yourusername/Kali-Linux-Updater.git
+git clone https://github.com/al3xdagr8/Kali-Linux-Updater.git
 cd Kali-Linux-Updater
 chmod +x kali-linux-updater.sh
 sudo ./kali-linux-updater.sh
