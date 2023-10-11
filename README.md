@@ -21,5 +21,5 @@ You can install this script by cloning the repository to your local machine. Mak
 ```bash
 git clone https://github.com/yourusername/Kali-Linux-Updater.git
 cd Kali-Linux-Updater
-chmod +x update.sh
-sudo ./update.sh
+chmod +x kali-linux-updater.sh
+sudo ./kali-linux-updater.sh
