@@ -2,7 +2,7 @@
 
 ################################################################################
 # Title: Kali-Linux-Updater
-# Author: Alex Torres (al3xdagr8)
+# Author: al3xdagr8
 # Date: October 09, 2023
 # Version: 1.0
 #
