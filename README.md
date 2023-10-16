@@ -1,7 +1,7 @@
-# Kali-Linux-Updater
+# APT-Update-Script
 
 ## Description
-Kali-Linux-Updater is a Bash script that simplifies the process of keeping your Kali Linux system up-to-date. It automates the update of package lists and the upgrade of installed packages, and it checks if a system reboot is required after updates.
+APT-Update-Script is a Bash script that simplifies the process of keeping Debian-based Linux systems up-to-date. It automates the update of package lists and the upgrade of installed packages, and it checks if a system reboot is required after updates.
 
 ## Usage
 To use this script, follow these steps:
@@ -19,7 +19,7 @@ To use this script, follow these steps:
 You can install this script by cloning the repository to your local machine. Make sure you have administrative privileges.
 
 ```bash
-git clone https://github.com/al3xdagr8/Kali-Linux-Updater.git
-cd Kali-Linux-Updater
-chmod +x kali-linux-updater.sh
-sudo ./kali-linux-updater.sh
+git clone https://github.com/al3xdagr8/APT-Update-Script.git
+cd APT-Update-Script
+chmod +x update.sh
+sudo ./update.sh
