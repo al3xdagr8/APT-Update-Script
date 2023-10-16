@@ -1,13 +1,13 @@
 #!/bin/bash
 
 ################################################################################
-# Title: Kali-Linux-Updater
+# Title: APT-Update-Script
 # Author: al3xdagr8
 # Date: October 09, 2023
 # Version: 1.0
 #
-# Description: Bash script that simplifies the process of keeping 
-#              Kali Linux system up-to-date using APT-GET.
+# Description: Bash script that simplifies the process of keeping
+#              Debian-Based Linux system up-to-date using APT-GET.
 #
 # Changelog:
 # - Version 1.0 (October 09, 2023):
